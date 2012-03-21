@@ -1,0 +1,391 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.ggdc.net/MADDISON/Historical_Statistics/vertical-file_02-2010.xls) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 82.69291
+ 572.7736
+ 532.5827
+ 584.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://pwt.econ.upenn.edu/php_site/pwt63/pwt63_form.php) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 82.69291
+ 473.7736
+ 532.5827
+ 485.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://data.worldbank.org/data-catalog/world-development-indicators) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 82.69291
+ 386.7736
+ 532.5827
+ 398.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+7 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R ]
+ /Contents 16 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 15 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R8': class PDFCatalog 
+8 0 obj
+% Document Root
+<< /Outlines 10 0 R
+ /PageLabels 17 0 R
+ /PageMode /UseNone
+ /Pages 15 0 R
+ /Type /Catalog >>
+endobj
+% 'R9': class PDFInfo 
+9 0 obj
+<< /Author ()
+ /CreationDate (D:20120319170302-01'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Replication data) >>
+endobj
+% 'R10': class PDFOutlines 
+10 0 obj
+<< /Count 4
+ /First 11 0 R
+ /Last 14 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+11 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 647.0236
+ 0 ]
+ /Next 12 0 R
+ /Parent 10 0 R
+ /Title (Maddison) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+12 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 560.0236
+ 0 ]
+ /Next 13 0 R
+ /Parent 10 0 R
+ /Prev 11 0 R
+ /Title (Penn World Table) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+13 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 461.0236
+ 0 ]
+ /Next 14 0 R
+ /Parent 10 0 R
+ /Prev 12 0 R
+ /Title (World Development Indicators) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+14 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 374.0236
+ 0 ]
+ /Parent 10 0 R
+ /Prev 13 0 R
+ /Title (Compustat North America 2010, Business Segments) >>
+endobj
+% 'R15': class PDFPages 
+15 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 7 0 R ]
+ /Type /Pages >>
+endobj
+% 'R16': class PDFStream 
+16 0 obj
+% page stream
+<< /Length 3569 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 157.7049 0 Td (Replication data) Tj T* -157.7049 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 707.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .692706 Tw 12 TL /F1 10 Tf 0 0 0 rg (Replication data for Koren, Mikl\363s and Silvana Tenreyro. 2012. "Technological Diversification." American) Tj T* 0 Tw (Economic Review.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 689.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Please cite the above paper when using this program.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 659.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .051984 Tw (For convenience, we are reproducing here the publicly available datasets used in the analysis. Please see) Tj T* 0 Tw (below for the citation and the source of each dataset.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 626.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Maddison) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 608.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Maddison, Angus. 2010. "Historical Statistics of the World Economy." The Groningen Centre.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 590.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Retrieved from) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 584.0236 cm
+Q
+q
+1 0 0 1 62.69291 572.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.ggdc.net/MADDISON/Historical_Statistics/vertical-file_02-2010.xls) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 572.0236 cm
+Q
+q
+1 0 0 1 62.69291 539.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Penn World Table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 509.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .263555 Tw (Alan Heston, Robert Summers and Bettina Aten, "Penn World Table Version 6.3", Center for International) Tj T* 0 Tw (Comparisons of Production, Income and Prices at the University of Pennsylvania, August 2009.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 491.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Retrieved from) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 485.0236 cm
+Q
+q
+1 0 0 1 62.69291 473.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://pwt.econ.upenn.edu/php_site/pwt63/pwt63_form.php) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 473.0236 cm
+Q
+q
+1 0 0 1 62.69291 440.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (World Development Indicators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 422.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (World Bank, "World Development Indicators." 2010.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 404.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Retrieved from) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 398.0236 cm
+Q
+q
+1 0 0 1 62.69291 386.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://data.worldbank.org/data-catalog/world-development-indicators) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 386.0236 cm
+Q
+q
+1 0 0 1 62.69291 353.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Compustat North America 2010, Business Segments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 335.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Not reproduced here, please use WRDS or another provider.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R17': class PDFPageLabels 
+17 0 obj
+% Document Root
+<< /Nums [ 0
+ 18 0 R ] >>
+endobj
+% 'R18': class PDFPageLabel 
+18 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+xref
+0 19
+0000000000 65535 f
+0000000113 00000 n
+0000000221 00000 n
+0000000386 00000 n
+0000000573 00000 n
+0000000867 00000 n
+0000001140 00000 n
+0000001411 00000 n
+0000001726 00000 n
+0000001883 00000 n
+0000002146 00000 n
+0000002271 00000 n
+0000002439 00000 n
+0000002630 00000 n
+0000002833 00000 n
+0000003024 00000 n
+0000003131 00000 n
+0000006803 00000 n
+0000006896 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\253\020\231\220k\316\005\237Zug\255\373O\361\260) (\253\020\231\220k\316\005\237Zug\255\373O\361\260)] 
+
+ /Info 9 0 R
+ /Root 8 0 R
+ /Size 19 >>
+startxref
+6943
+%%EOF

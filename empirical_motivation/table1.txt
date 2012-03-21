@@ -1,0 +1,14 @@
+		(1)	(2)	(3)	(4)
+VARIABLES	LABELS	logvolpwt	logvolpwt	logvolwdi	logvolwdi
+					
+loggdppwt	GDP per capita (log) PWT	-0.206***	-0.467***		
+		[0.032]	[0.072]		
+loggdpwdi	Log GDP pc, WDI constant dollars			-0.118***	-0.456***
+				[0.023]	[0.088]
+Constant	Constant	-1.482***	0.746	-2.542***	-0.005
+		[0.274]	[0.612]	[0.174]	[0.659]
+					
+Observations		714	714	706	706
+R-squared		0.108	0.564	0.069	0.467
+Robust standard errors in brackets					
+*** p<0.01, ** p<0.05, * p<0.1					
